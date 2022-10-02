@@ -1,2 +1,2 @@
 Đây là file Git lesson1
-Đây là dòng code số 2
+Đây là dòng
